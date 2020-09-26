@@ -4,4 +4,5 @@ public class TestClass {
 
     //this is a test class
     //this is a test update
+    double foo;
 }
